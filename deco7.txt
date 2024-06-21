@@ -1,0 +1,7 @@
+printf("\nCheck-in\t\t%s\n",checkin);
+        printf("\nDescription\t\t\t\t\t\t\t\t\t Amount\n");
+        printf("Package          :\t\t%s\t\t\t\t\t  %d\n",column_4,charge[0]);
+        printf("Number of room   : \t\t\t\t\t\t\t\t    %d\n",count_3);
+        printf("Number of nights : \t\t\t\t\t\t\t\t      %d\n",nonight);
+        printf("Total            : \t\t\t\t\t      RS.%d\n",tot);
+        printf("\t\t\t   Thank you for staying with us !\n\n");
